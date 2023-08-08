@@ -4,8 +4,8 @@
   "description": "Proyecto de práctica para DH - Mercado Liebre by Lean Montellano",
   "main": "app.js",
   "scripts": {
-    "test": "nodemon src/index.js",
-    "start": "node src/index.js"
+    "test": "nodemon src/app.js",
+    "start": "node src/app.js"
   },
   "author": "",
   "license": "ISC",
