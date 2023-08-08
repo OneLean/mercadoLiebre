@@ -1,0 +1,19 @@
+{
+  "name": "mercadoliebre",
+  "version": "1.0.0",
+  "description": "Proyecto de práctica para DH - Mercado Liebre by Lean Montellano",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon --ext js,html,css src/app.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^3.0.1"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.29.3"
+  }
+}
